@@ -1,4 +1,4 @@
-package patternAbstractFactory.entities;
+package patterns.patternAbstractFactory.entities;
 
 public abstract class Vehicule {
     private String model;

@@ -1,4 +1,4 @@
-package patternAbstractFactory.entities;
+package patterns.patternAbstractFactory.entities;
 
 public class Automobile extends Vehicule {
     private double espace;

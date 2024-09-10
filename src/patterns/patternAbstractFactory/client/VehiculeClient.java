@@ -1,9 +1,9 @@
-package patternAbstractFactory.client;
+package patterns.patternAbstractFactory.client;
 
-import patternAbstractFactory.entities.Automobile;
-import patternAbstractFactory.entities.Scooter;
-import patternAbstractFactory.services.IVehicule;
-import patternAbstractFactory.services.VehiculeImpl;
+import patterns.patternAbstractFactory.entities.Automobile;
+import patterns.patternAbstractFactory.entities.Scooter;
+import patterns.patternAbstractFactory.services.IVehicule;
+import patterns.patternAbstractFactory.services.VehiculeImpl;
 
 public class VehiculeClient {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package patternAbstractFactory.entities;
+package patterns.patternAbstractFactory.entities;
 
 public class Scooter extends Vehicule {
     public Scooter() {

@@ -1,7 +1,7 @@
-package patternAbstractFactory.services;
+package patterns.patternAbstractFactory.services;
 
-import patternAbstractFactory.entities.Automobile;
-import patternAbstractFactory.entities.Scooter;
+import patterns.patternAbstractFactory.entities.Automobile;
+import patterns.patternAbstractFactory.entities.Scooter;
 
 public class VehiculeImpl implements IVehicule{
     @Override
